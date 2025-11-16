@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+build/
+data/planetary_positions_cache.db
